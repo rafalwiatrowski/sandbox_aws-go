@@ -1,2 +1,2 @@
-# aws_test_flight
+# AWS sandbox
 AWS sandbox
